@@ -2,6 +2,10 @@
   <img src="https://github.com/msmolcic/msmolcic/assets/6571127/efd0d5a3-a7e8-4326-9f14-f6700757c0d2" alt="mario-github-header-image">
 </div>
 
+<div align="center">
+  <img width="450" src="https://github.com/msmolcic/msmolcic/assets/6571127/47ba3aed-a254-4d89-a726-c028640b5630" alt="mario-octocat">
+</div>
+
 <div>
   👋 I'm a seasoned software engineer with over a decade of experience, having a distinct proficiency in C# and .NET technologies. Throughout my career, I've been instrumental in pushing boundaries, from jump-starting startups to driving progress in large-scale projects. 🌐
 
@@ -15,10 +19,6 @@
 
   [![Generic badge](https://img.shields.io/badge/LinkedIn-gray?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/msmolcic/)
   [![Generic badge](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/msmolcic)
-</div>
-
-<div align="center">
-  <img width="450" src="https://github.com/msmolcic/msmolcic/assets/6571127/47ba3aed-a254-4d89-a726-c028640b5630" alt="mario-octocat">
 </div>
 
 <p align="center">
