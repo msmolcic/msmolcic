@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/efd0d5a3-a7e8-4326-9f14-f6700757c0d2" alt="mario-github-header-image">
+  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/97aa9745-2c12-4201-b9d3-de9016389aa0" alt="mario-github-header-image">
 </div>
 
 <div>
