@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/19c94bc1-97f8-491f-b070-0d3e21fbe2a5" alt="mario-github-header-image" style="width: 100%;">
+  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/efd0d5a3-a7e8-4326-9f14-f6700757c0d2" alt="mario-github-header-image" style="width: 100%;">
 </div>
 
 <div>
-  <img align="right" width="450" src="https://github.com/msmolcic/msmolcic/assets/6571127/b53064b5-bae8-4af5-ae67-f0043f139fdf" alt="mario-octocat">
+  <img align="right" width="450" src="https://github.com/msmolcic/msmolcic/assets/6571127/47ba3aed-a254-4d89-a726-c028640b5630" alt="mario-octocat">
 
   👋 I'm a seasoned software engineer with over a decade of experience, having a distinct proficiency in C# and .NET technologies. Throughout my career, I've been instrumental in pushing boundaries, from jump-starting startups to driving progress in large-scale projects. 🌐
 
@@ -20,6 +20,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msmolcic&show_icons=true&theme=transparent" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmolcic&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=msmolcic&show_icons=true&theme=transparent" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmolcic&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" height="150">
 </p>
