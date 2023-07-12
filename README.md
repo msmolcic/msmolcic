@@ -15,7 +15,7 @@
   📫 Reach out to me at mario.smolcic@rokolabs.com for collaborations, queries, or just to say hi! Happy coding!
 
   [![Generic badge](https://img.shields.io/badge/LinkedIn-gray?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/msmolcic/)
-  [![Generic badge](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/msmolcic)
+  [![Generic badge](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/3284114/msmolcic)
 </div>
 
 <p align="center">
