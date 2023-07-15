@@ -12,10 +12,12 @@
 
   🌱 I thrive on innovation, constantly seeking out challenges and fostering a culture of growth. I always seek exciting collaborations and opportunities to contribute to the tech community. Let's code the future together, one repo at a time!
 
-  📫 Reach out to me at mario.smolcic@rokolabs.com for collaborations, queries, or just to say hi! Happy coding!
+  📫 Reach out to me for collaborations, queries, or just to say hi! Happy coding!
 
-  [![Generic badge](https://img.shields.io/badge/LinkedIn-gray?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/msmolcic/)
-  [![Generic badge](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/3284114/msmolcic)
+  [![Email](https://img.shields.io/badge/Email-gray?logo=gmail&style=flat-square)](mailto:mario.smolcic@rokolabs.com)
+  [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/3284114/msmolcic)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/msmolcic/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/MarioSmolcic?style=social)](https://twitter.com/MarioSmolcic)
 </div>
 
 <p align="center">
