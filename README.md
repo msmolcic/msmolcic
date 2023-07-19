@@ -14,10 +14,11 @@
 
   📫 Reach out to me for collaborations, queries, or just to say hi! Happy coding!
 
-  [![Email](https://img.shields.io/badge/Email-gray?logo=gmail&style=flat-square)](mailto:mario.smolcic@rokolabs.com)
-  [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/3284114/msmolcic)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/msmolcic/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/MarioSmolcic?style=social)](https://twitter.com/MarioSmolcic)
+  [![Email](https://img.shields.io/badge/Email-gray?logo=gmail&style=for-the-badge)](mailto:mario.smolcic@rokolabs.com)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/msmolcic/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarioSmolcic)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/msmolcic)
+  [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/3284114/msmolcic)
 </div>
 
 <p align="center">
