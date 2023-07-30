@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/9d744e2f-a02f-4b0c-84b5-f920e83acf89" alt="mario-github-header-image">
+  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/014cda3d-165c-429b-8458-229461b6b8e2" alt="mario-github-header-image">
 </div>
-
 
 <div>
 
