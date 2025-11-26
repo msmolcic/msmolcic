@@ -1,12 +1,10 @@
 <div>
 
-  👋 I'm a seasoned software engineer with over a decade of experience, having a distinct proficiency in C# and .NET technologies. Throughout my career, I've been instrumental in pushing boundaries, from jump-starting startups to driving progress in large-scale projects. 🌐
+  👋 I'm a seasoned software engineer with over a decade of experience, having a distinct proficiency in C# and .NET technologies. Throughout my career, I've been instrumental in pushing boundaries, from jump-starting startups to driving progress in large-scale projects.
   
-  💻 With a strong passion for backend development, I've harnessed the power of containerization and modern tech to craft and streamline efficient workflows. My journey includes creating feature-rich applications, orchestrating sophisticated microservices, and setting up efficient CI/CD pipelines.
+  With a strong passion for backend development, I've harnessed the power of containerization and modern tech to craft and streamline efficient workflows. My journey includes creating feature-rich applications, orchestrating sophisticated microservices, and setting up efficient CI/CD pipelines.
 
-  👥 As the current VP of Engineering @ ROKO Labs, I've played a pivotal role in the company's growth, scaling from a small team to over 300 dedicated professionals. 🚀
-
-  🌱 I thrive on innovation, constantly seeking out challenges and fostering a culture of growth. I always seek exciting collaborations and opportunities to contribute to the tech community. Let's code the future together, one repo at a time!
+  I thrive on innovation, constantly seeking out challenges and fostering a culture of growth. I always seek exciting collaborations and opportunities to contribute to the tech community. Let's code the future together, one repo at a time!
 
   📫 Reach out to me for collaborations, queries, or just to say hi! Happy coding!
 
