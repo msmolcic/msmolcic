@@ -17,11 +17,6 @@
   [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-gray?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/3284114/msmolcic)
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats-msr7.vercel.app/api?username=msmolcic&show_icons=true&theme=transparent" height="150">
-  <img src="https://github-readme-stats-msr7.vercel.app/api/top-langs/?username=msmolcic&theme=transparent&langs_count=10&layout=compact" height="150">
-</p>
-
 <div align="center">
   <img width="600" src="https://github.com/msmolcic/msmolcic/assets/6571127/47ba3aed-a254-4d89-a726-c028640b5630" alt="mario-octocat">
 </div>
