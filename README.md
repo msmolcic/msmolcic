@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/msmolcic/msmolcic/assets/6571127/014cda3d-165c-429b-8458-229461b6b8e2" alt="mario-github-header-image">
-</div>
-
 <div>
 
   👋 I'm a seasoned software engineer with over a decade of experience, having a distinct proficiency in C# and .NET technologies. Throughout my career, I've been instrumental in pushing boundaries, from jump-starting startups to driving progress in large-scale projects. 🌐
@@ -22,8 +18,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msmolcic&show_icons=true&theme=transparent" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmolcic&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats-msr7.vercel.app/api?username=msmolcic&show_icons=true&theme=transparent" height="150">
+  <img src="https://github-readme-stats-msr7.vercel.app/api/top-langs/?username=msmolcic&theme=transparent&langs_count=10&layout=compact" height="150">
 </p>
 
 <div align="center">
