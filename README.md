@@ -4,7 +4,7 @@
   
   With a strong passion for backend development, I've harnessed the power of containerization and modern tech to craft and streamline efficient workflows. My journey includes creating feature-rich applications, orchestrating sophisticated microservices, and setting up efficient CI/CD pipelines.
 
-  I thrive on innovation, constantly seeking out challenges and fostering a culture of growth. I always seek exciting collaborations and opportunities to contribute to the tech community. Let's code the future together, one repo at a time!
+  I thrive on innovation, constantly seeking out challenges and fostering a culture of growth. I always seek exciting collaborations and opportunities to contribute to the tech community.
 
   📫 Reach out to me for collaborations, queries, or just to say hi! Happy coding!
 
